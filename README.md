@@ -182,8 +182,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-ext-base-ndarray-snansum.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-ext-base-ndarray-snansum
 
-[test-image]: https://github.com/stdlib-js/blas-ext-base-ndarray-snansum/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/blas-ext-base-ndarray-snansum/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/blas-ext-base-ndarray-snansum/actions/workflows/test.yml/badge.svg?branch=v0.1.1
+[test-url]: https://github.com/stdlib-js/blas-ext-base-ndarray-snansum/actions/workflows/test.yml?query=branch:v0.1.1
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-ndarray-snansum/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-ndarray-snansum?branch=main
